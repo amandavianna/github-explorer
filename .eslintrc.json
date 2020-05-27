@@ -41,7 +41,8 @@
     "@typescript-eslint/explicit-function-return-type": ["error", {
       "allowExpressions": true
     }],
-    "camelcase": "off"
+    "camelcase": "off",
+    "@typescript-eslint/explicit-module-boundary-types": "off"
   },
   "settings": {
     "import/resolver": {
